@@ -1,1 +1,1 @@
-# Board 연습
+# Board
